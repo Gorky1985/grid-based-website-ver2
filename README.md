@@ -17,7 +17,7 @@ Design ideas from Video Course made by Morten Rand-Hendriksen.
 ## Screenshots 📺
 
 <p align="center">
-    <img src="https://github.com/Gorky1985/grid-based-website-ver1/blob/main/images/Screenshot%202023-08-30%20110856.png?raw=true" alt="Screenshot of website">
+    <img src="https://github.com/Gorky1985/grid-based-website-ver2/blob/main/images/Screenshot%202023-08-30%20112205.png?raw=true" alt="Screenshot of website">
 </p>
 
 ## Installation 💾
